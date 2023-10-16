@@ -1,0 +1,14 @@
+span{color:white;
+    background-color: plum;}
+
+    span.purpleColor{
+        color:rgb(171, 99, 222);
+        font-family:arial;
+        font: size 17px;}
+
+        #specificLink{
+            color:rgb(104, 216, 228);
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            font: size 20px;}
+          
+            body{background-image: url('Downloads/html/John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg');}
